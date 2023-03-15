@@ -1,0 +1,40 @@
+body{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    /*
+    margin-right: 5%;
+    margin-left: 5%;
+    */
+}
+
+.autor{
+    color: hotpink;
+    font-size: 3rem;
+    border-bottom: 1rem dotted purple;
+    margin-right: 5%;
+    margin-left: 5%;
+}
+
+.autorprof{
+    color: darkgray;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+.descripton{
+    color: #444444;
+    margin-right: 5%;
+    margin-left: 5%;
+}
+.contato{
+    margin: 5em;
+    text-align: center;
+    border: 0.2em solid;
+    padding: 2em;
+}
+.contato li{
+    text-align: left;
+}
+
+.iconnet{
+    font-size: 3em;
+}
